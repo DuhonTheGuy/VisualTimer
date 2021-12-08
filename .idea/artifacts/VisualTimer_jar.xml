@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VisualTimer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VisualTimer_jar</output-path>
+    <root id="archive" name="VisualTimer.jar">
+      <element id="module-output" name="VisualTimer" />
+      <element id="extracted-dir" path="/usr/share/java/gtk.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/java/gtk-4.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
